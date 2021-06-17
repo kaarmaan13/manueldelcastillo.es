@@ -27,7 +27,7 @@
 
       <p>Soy Manuel Del Castillo</p>
 
-      <div class="caja-disenador">DISEÑADOR GRÁFICO</div>
+      <div class="caja-disenador">FRONT-END DEVELOPER</div>
     </div>
     <div class="img-inicio-container">
       <img src="/images/me.jpg" alt="Manuel Del Castillo">
