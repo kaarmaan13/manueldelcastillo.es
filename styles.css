@@ -68,6 +68,10 @@ img {
     margin: 0 0 0 1em;
 }
 
+a.active {
+    background-color: #006FFF;
+}
+
 .items-menu a{
     padding: 1em 1em 1em 1em;
     display: inline-flex;

@@ -3,27 +3,27 @@
     <a href="/"><img src="/images/logoartescaso.svg" alt="Logo Artescaso" /></a>
   </div>
   <div class="header-container">
-    <div class="container-menu">
+    <div class="container-menu" id="menuId">
       <div class="items-menu">
-        <a href="/">Inicio</a>
+        <a class="menu-item" id="aInicio" href="/">Inicio</a>
       </div>
       <div class="items-menu active">
-        <a href="#servicios">Servicios</a>
+        <a class="menu-item" id="aServicios" href="#servicios">Servicios</a>
       </div>
       <div class="items-menu">
-        <a href="#sobre-mi">Sobre Mí</a>
+        <a class="menu-item" id="aSobremi" href="#sobre-mi">Sobre Mí</a>
       </div>
       <div class="items-menu">
-        <a href="#habilidades">Habilidades</a>
+        <a class="menu-item" id="aHabilidades" href="#habilidades">Habilidades</a>
       </div>
       <div class="items-menu">
-        <a href="#trabajos">Trabajos</a>
+        <a class="menu-item" id="aTrabajos" href="#trabajos">Trabajos</a>
       </div>
       <div class="items-menu">
-        <a href="#marcas">Marcas</a>
+        <a class="menu-item" id="aMarcas" href="#marcas">Marcas</a>
       </div>
       <div class="items-menu">
-        <a href="#contacto">Contacto</a>
+        <a class="menu-item" id="aContacto" href="#contacto">Contacto</a>
       </div>
     </div>
   </div>

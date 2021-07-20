@@ -4,3 +4,4 @@
 <link rel="stylesheet" href="/css/grid-gallery.css" />
 <link rel="stylesheet" href="/css/styles.css" />
 <link rel="icon" href="/images/favicon.png" type="image/png" />
+<script src="/js/main.js" defer></script>
